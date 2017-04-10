@@ -1,13 +1,33 @@
 
 //***************************************************
-// event listener for <thisMuch> button
+// event listener for <?Zoe?Callan?Lauren?> button
 //***************************************************
 $("#whoWins").click(function (){
 
   $("#asking").addClass("hidden");
   $("#whoWins").addClass("hidden");
 
-  // $("#pPuffGirls").removeClass("hidden");
-  // $("#pPuffGirls").addClass("visible");
+  $("#pPuffGirls").addClass("hidden");
+  $("#pPuffFighting").removeClass("hidden");
+  $("#pPuffFighting").addClass("visible");
+  $("#action").removeClass("hidden");
+  $("#action").addClass("visible");
 
 });
+
+
+//***************************************************
+// event listener for <!Zoe!Callan!Lauren!> button
+//***************************************************
+$("#action").click(function (){
+
+  $("#pPuffFigting").removeClass("visible");
+  $("#pPuffFigting").addClass("hidden");
+  $("#action").addClass("hidden");
+
+  $("#pPuffFighting").addClass("hidden");
+  $("#winner").removeClass("hidden");
+  $("#winner").addClass("visible");
+});
+
+

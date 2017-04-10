@@ -21,15 +21,30 @@ h1 {
 }
 
 
-#buttonDiv, #whoWins {
+#pPuffGirls, #pPuffFighting, #winner {
+  margin-top: 2%;
+  margin-left: 29%;
+}
+
+
+#winner {
+  margin-top: 5%;
+  margin-left: 33%;
+}
+
+
+#pPuffFighting {
+  margin-top: 10%;
+}
+
+
+#buttonDiv, #whoWins, #action {
 	margin: 2%;
 	margin-left: 15%;
 }
 
-
-#pPuffGirls {
-  margin-top: 2%;
-	margin-left: 29%;
+#action {
+  margin-top: 4%;
 }
 
 

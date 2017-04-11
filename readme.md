@@ -27,7 +27,7 @@ This assignment is the fourth of five, to walk through the Project Setup process
 - Created a `.gitignore` file
 - Created `Gruntfile.js`
 - Committed all to GitHub, and merged in the Project SetUp
-- Ran `Grunt` in the background in a separate terminal window while developing the ZoeLove application
+- Ran `Grunt` in the background in a separate terminal window while developing the CageMatch application
 
 
 ### Technologies Used
@@ -42,7 +42,7 @@ This assignment is the fourth of five, to walk through the Project Setup process
 ### How To View The Screen 
 #### (Node must be installed on your machine):
 ```
-git clone https://github.com/SMITHsharon/projectSetup1.git
+git clone https://github.com/SMITHsharon/projectSetup4.git
 cd projectSetup1
 cd lib
 bower install

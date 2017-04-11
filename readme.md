@@ -43,7 +43,7 @@ This assignment is the fourth of five, to walk through the Project Setup process
 #### (Node must be installed on your machine):
 ```
 git clone https://github.com/SMITHsharon/projectSetup4.git
-cd projectSetup1
+cd projectSetup4
 cd lib
 bower install
 npm install

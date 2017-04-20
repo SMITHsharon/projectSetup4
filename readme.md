@@ -47,7 +47,6 @@ cd projectSetup4
 cd lib
 bower install
 npm install
-npm install http-server -g
 http-server -p 8080
 This will show in your browser at: http://localhost:8080
 ```
